@@ -1,0 +1,13 @@
+C:\Users\alex\OneDrive\GitHUb\UserMicroServce\UserServiceHttpServive\obj\Debug\UserServiceHttpServive.fsproj.UserServiceHttpServive.exe.config
+C:\Users\alex\OneDrive\GitHUb\UserMicroServce\UserServiceHttpServive\bin\Debug\UserServiceHttpServive.exe.config
+C:\Users\alex\OneDrive\GitHUb\UserMicroServce\UserServiceHttpServive\bin\Debug\UserServiceHttpServive.XML
+C:\Users\alex\OneDrive\GitHUb\UserMicroServce\UserServiceHttpServive\bin\Debug\UserServiceHttpServive.exe
+C:\Users\alex\OneDrive\GitHUb\UserMicroServce\UserServiceHttpServive\bin\Debug\UserServiceHttpServive.pdb
+C:\Users\alex\OneDrive\GitHUb\UserMicroServce\UserServiceHttpServive\bin\Debug\FSharp.Core.dll
+C:\Users\alex\OneDrive\GitHUb\UserMicroServce\UserServiceHttpServive\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alex\OneDrive\GitHUb\UserMicroServce\UserServiceHttpServive\bin\Debug\Suave.dll
+C:\Users\alex\OneDrive\GitHUb\UserMicroServce\UserServiceHttpServive\bin\Debug\FSharp.Core.xml
+C:\Users\alex\OneDrive\GitHUb\UserMicroServce\UserServiceHttpServive\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alex\OneDrive\GitHUb\UserMicroServce\UserServiceHttpServive\bin\Debug\Suave.xml
+C:\Users\alex\OneDrive\GitHUb\UserMicroServce\UserServiceHttpServive\obj\Debug\UserServiceHttpServive.exe
+C:\Users\alex\OneDrive\GitHUb\UserMicroServce\UserServiceHttpServive\obj\Debug\UserServiceHttpServive.pdb
